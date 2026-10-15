@@ -98,7 +98,7 @@ The ones below, I printed using my AD5X 3D printer using its multicolour capabil
 <img width="4080" height="3072" alt="PXL_20251122_212708830" src="https://github.com/user-attachments/assets/4c090269-420f-4e91-9d45-91ea2594d9e9" />
 <img width="4080" height="3072" alt="PXL_20251122_232937043" src="https://github.com/user-attachments/assets/400ec9b7-c8b9-4988-94a8-d004ec16b9e8" /> -->
 
-# Here is a 3D printer of the Pokémon Psyduck.
+# Here is a 3D print of the Pokémon Psyduck.
 This one I designed to be a pitcher to water the plants above.
 <p float="left">
 <img src="https://github.com/user-attachments/assets/f448207e-3783-4762-8b9a-50fb1229f81f" style="width: 40%;">
