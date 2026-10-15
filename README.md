@@ -106,3 +106,7 @@ This one I designed to be a pitcher to water the plants above.
 </p>
 <!-- <img width="3072" height="4080" alt="PXL_20260116_080722369" src="https://github.com/user-attachments/assets/f448207e-3783-4762-8b9a-50fb1229f81f" />
 <img width="3072" height="4080" alt="PXL_20260116_210400610" src="https://github.com/user-attachments/assets/faba15b6-aedd-4786-9bec-34108cde5f55" /> -->
+
+# Here is the pictures of the plants together.
+<img width="4080" height="3072" alt="PXL_20250911_124522876" src="https://github.com/user-attachments/assets/4f69f68e-33f6-4aae-8d28-edeec151fdff" />
+
