@@ -1,6 +1,6 @@
 # Projects-of-2025
 Some projects that I had worked on in 2025.
-(Everything showed here is my design and print).
+(Everything shown here is my design and print).
 <!-- <img src="" style="width: 49%;"> -->
 <!-- <p float="left">
 </p> -->
